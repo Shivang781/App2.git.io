@@ -1,0 +1,16 @@
+*{
+    background-color: aquamarine;
+}
+
+button{
+    font-size: 22px;
+    margin-right: 5px;
+    border-radius: 7px;
+    border: none;
+    background-color: blue;
+    color: whitesmoke;
+}
+
+button:hover{
+    background-color: rgb(71, 71, 250);
+}
